@@ -1,0 +1,5 @@
+source Websites:
+  - Krafwerkenliste_2022 : 
+      https://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/Versorgungssicherheit/Erzeugungskapazitaeten/Kraftwerksliste/start.html
+  - plz_pop :
+      https://downloads.suche-postleitzahl.org/v2/public/plz_einwohner.xls
